@@ -1,7 +1,7 @@
 (c) 2013 Sheldon Sandbekkhaug
 All Rights Reserved.
 
-You, the user, are free to use Polygon Breeder.
+You, the user, are free to run Polygon Breeder.
 
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
 IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
